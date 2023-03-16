@@ -1,1 +1,1 @@
-# React Boilerplate Comparaison
+# React Boilerplate Comparison
